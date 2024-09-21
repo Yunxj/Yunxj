@@ -10,6 +10,12 @@
 
 </details>
 
+<details>
+<summary>:eyes: Top Languages</summary>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yunxj)](https://github.com/anuraghazra/github-readme-stats)
+
+</details>
 
 
 
