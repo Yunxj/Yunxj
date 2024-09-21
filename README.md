@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,vue,html,css,nodejs,figma&theme=light)](https://skillicons.dev)
 
 <details>
-<summary>:eyes: Top Languages</summary>
+<summary>:eyes: stats</summary>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yunxj)](https://github.com/anuraghazra/github-readme-stats)
 
